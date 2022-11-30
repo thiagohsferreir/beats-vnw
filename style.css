@@ -53,7 +53,7 @@ main p{
 }
 
 main img {
-    width: 640px;
+    width: 572px;
     margin: 20px 10px;
 }
 footer ul li{
@@ -67,7 +67,6 @@ footer li {
     padding: 10px;
 }
 footer nav{
-    border: 1px solid red;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
